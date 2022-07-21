@@ -2,8 +2,12 @@
 //  ContentView.swift
 //  Source Control Test
 //
-//  Created by 이소은 on 2022/07/21.
+//  Created by Kate on 2022/07/21.
 //
+
+// I'm adding some comments here
+
+
 
 import SwiftUI
 
